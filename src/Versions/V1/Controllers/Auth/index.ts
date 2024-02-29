@@ -1,6 +1,3 @@
-import GetUserData from './GetUserData.js'
-import Login from './Login.js'
-import Register from './Register.js'
-import RefreshToken from './RefreshToken.js'
+import Creation from './Creation.js'
 
-export { Register, Login, GetUserData, RefreshToken }
+export { Creation }
